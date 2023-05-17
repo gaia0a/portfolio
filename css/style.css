@@ -2429,7 +2429,6 @@ input:checked+label::after {
 
     .col2 .baby img {
         position: absolute;
-        top: 10%;
         transform: scale(1) rotate(-12deg);
     }
 
