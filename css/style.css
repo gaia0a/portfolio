@@ -2005,7 +2005,7 @@ input:checked+label::after {
     background-color: #000;
     position: relative;
     overflow: hidden;
-    margin-top: 12vw;
+    margin-top: 9.5vw;
 }
 
 .thankyou {
